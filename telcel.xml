@@ -1,0 +1,42 @@
+<chart caption='Inversión Telcel Periódico AL DIA' showValues='0' sNumberSuffix='' decimals='3' setAdaptiveYMin='1' setAdaptiveSYMin='1' lineThickness='5'>
+
+
+    <categories>
+
+        <category name='2011' />
+
+        <category name='2012' />
+
+        <category name='2013' />
+
+        <category name='2014' />
+
+    </categories>
+
+
+    <dataset seriesname='Circulación' parentYAxis='P' renderAs='Area'>
+
+        <set value='27560'/>
+
+        <set value='31891'/>
+
+        <set value='33578'/>
+
+        <set value='33578'/>
+
+    </dataset>
+
+
+    <dataset parentYAxis='S' seriesname='Costo por Plana' renderAs = 'Line'>
+
+        <set value='2993.35'/>
+
+        <set value='3112.96'/>
+
+        <set value='3112.96'/>
+
+        <set value='4000'/>
+
+    </dataset>
+
+</chart>

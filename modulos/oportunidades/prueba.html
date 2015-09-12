@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title>Pruebas</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script src="codigojquery.js" > </script>
+	
+    <script>
+    $(function(){
+        alturamaxima = $('.descripcion').height() + 'px';
+		
+		/*! altura cambio */
+        alturaMinima = '44px';
+        
+		$('.descripcion').height(alturaMinima);	
+        $('.contenedor .titulo').toggle( function (){
+            $(this).prev().animate({height: alturamaxima},1000);
+        }, function (){
+            $(this).prev().animate({height: alturaMinima},1000);
+		
+        });
+    });
+    </script>
+    <style>
+        body{font-size:12px; font-family:Arial}
+
+		/*! anchura */
+        .contenedor{border:1px solid #ccc; background:#E2E2E2; width:150px;}
+		
+		
+        .titulo{background:#CDCDCD; cursor:pointer }
+        .contenedor, .titulo, .descripcion{padding:3px}
+        .descripcion{background:#F0F0F0; overflow:hidden}
+    </style>
+    </head>
+    <body>
+     
+        <div class="contenedor">
+            
+            <div class="descripcion">Esta es una descripcion larga. Esta es una descripcion larga. Esta es  una descripcion larga. Esta es una descripcion larga. Esta es una descripcion larga. TERMINO</div>			
+		<div class="titulo">Título  </div>
+			
+       </div>
+	   
+	   
+     
+    </body>
+    </html>

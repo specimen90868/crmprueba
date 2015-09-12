@@ -1,0 +1,7 @@
+<chart caption='Venta Anual' subcaption='' lineThickness='1' showValues='0' formatNumberScale='0' anchorRadius='2' divLineAlpha='20' divLineColor='CC3300' divLineIsDashed='1' showAlternateHGridColor='1' alternateHGridAlpha='5' alternateHGridColor='CC3300' shadowAlpha='40' labelStep='1' numvdivlines='10' chartRightMargin='35' bgColor='FFFFFF' bgAngle='270' bgAlpha='10,10' showBorder='0'>
+			<categories>
+			<category label='Trimestre 1'/>
+			<category label='Trimestre 2'/>
+			<category label='Trimestre 3'/>
+			<category label='Trimestre 4'/>
+			</categories><dataset seriesName='Metas 2014' color='9FC733' anchorBorderColor='9FC733' anchorBgColor='9FC733'><set value='0'/><set value='0'/><set value='0'/><set value='0'/></dataset><dataset seriesName='Mínimos 2014' color='FF0000' anchorBorderColor='FF0000' anchorBgColor='FF0000'><set value='0'/><set value='0'/><set value='0'/><set value='0'/></dataset></chart>

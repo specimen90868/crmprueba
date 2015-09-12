@@ -1,0 +1,19 @@
+[02-Aug-2015 17:06:54 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'premomx1_crm'@'just114.justhost.com' (using password: YES) in /home3/premomx1/public_html/crm/config/config.php on line 13
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Warning:  mysql_query(): Access denied for user 'karthikpr'@'localhost' (using password: NO) in /home3/premomx1/public_html/crm/config/config.php on line 16
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/premomx1/public_html/crm/config/config.php on line 16
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Warning:  mysql_query(): Access denied for user 'karthikpr'@'localhost' (using password: NO) in /home3/premomx1/public_html/crm/config/config.php on line 17
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/premomx1/public_html/crm/config/config.php on line 17
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home3/premomx1/public_html/crm/config/config.php on line 19
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Warning:  mysql_connect(): Access denied for user 'premomx1_crm'@'just114.justhost.com' (using password: YES) in /home3/premomx1/public_html/crm/config/config.php on line 13
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Warning:  mysql_query(): Access denied for user 'karthikpr'@'localhost' (using password: NO) in /home3/premomx1/public_html/crm/config/config.php on line 16
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/premomx1/public_html/crm/config/config.php on line 16
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Warning:  mysql_query(): Access denied for user 'karthikpr'@'localhost' (using password: NO) in /home3/premomx1/public_html/crm/config/config.php on line 17
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/premomx1/public_html/crm/config/config.php on line 17
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home3/premomx1/public_html/crm/config/config.php on line 19
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Notice:  Undefined variable: action in /home3/premomx1/public_html/crm/modulos/exportaciones/index.php on line 8
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Notice:  Use of undefined constant Claveagente - assumed 'Claveagente' in /home3/premomx1/public_html/crm/modulos/exportaciones/index.php on line 67
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Notice:  Use of undefined constant Rol - assumed 'Rol' in /home3/premomx1/public_html/crm/modulos/exportaciones/index.php on line 68
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Notice:  Use of undefined constant organizacion - assumed 'organizacion' in /home3/premomx1/public_html/crm/modulos/exportaciones/index.php on line 69
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Notice:  Undefined index: organizacion in /home3/premomx1/public_html/crm/modulos/exportaciones/index.php on line 69
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Warning:  mysql_query(): Access denied for user 'karthikpr'@'localhost' (using password: NO) in /home3/premomx1/public_html/crm/modulos/exportaciones/paginator.inc.php on line 175
+[02-Aug-2015 16:06:54 America/Los_Angeles] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/premomx1/public_html/crm/modulos/exportaciones/paginator.inc.php on line 175

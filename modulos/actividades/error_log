@@ -1,0 +1,68 @@
+[02-Aug-2015 17:06:23 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'premomx1_crm'@'just114.justhost.com' (using password: YES) in /home3/premomx1/public_html/crm/config/config.php on line 13
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Warning:  mysql_query(): Access denied for user 'karthikpr'@'localhost' (using password: NO) in /home3/premomx1/public_html/crm/config/config.php on line 16
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/premomx1/public_html/crm/config/config.php on line 16
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Warning:  mysql_query(): Access denied for user 'karthikpr'@'localhost' (using password: NO) in /home3/premomx1/public_html/crm/config/config.php on line 17
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/premomx1/public_html/crm/config/config.php on line 17
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home3/premomx1/public_html/crm/config/config.php on line 19
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Use of undefined constant Claveagente - assumed 'Claveagente' in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 5
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Warning:  mysql_connect(): Access denied for user 'premomx1_crm'@'just114.justhost.com' (using password: YES) in /home3/premomx1/public_html/crm/config/config.php on line 13
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Warning:  mysql_query(): Access denied for user 'karthikpr'@'localhost' (using password: NO) in /home3/premomx1/public_html/crm/config/config.php on line 16
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/premomx1/public_html/crm/config/config.php on line 16
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Warning:  mysql_query(): Access denied for user 'karthikpr'@'localhost' (using password: NO) in /home3/premomx1/public_html/crm/config/config.php on line 17
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/premomx1/public_html/crm/config/config.php on line 17
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home3/premomx1/public_html/crm/config/config.php on line 19
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home3/premomx1/public_html/crm/header.php on line 43
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home3/premomx1/public_html/crm/header.php on line 44
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Undefined variable: imagen in /home3/premomx1/public_html/crm/header.php on line 58
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Undefined variable: claveorganizacion in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 37
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 55
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Undefined index: month in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 292
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Undefined index: year in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 293
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Undefined index: dia in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 295
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Undefined index: semana in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 302
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Undefined index: year in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 316
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Undefined index: month in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 317
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Undefined index: year in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 318
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Use of undefined constant dia - assumed 'dia' in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 347
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Undefined index: dia in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 347
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Use of undefined constant dia - assumed 'dia' in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 350
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Undefined index: dia in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 350
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Use of undefined constant dia - assumed 'dia' in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 374
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Undefined index: dia in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 374
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Use of undefined constant semana - assumed 'semana' in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 396
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Notice:  Undefined index: semana in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 396
+[02-Aug-2015 16:06:23 America/Los_Angeles] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 429
+[02-Aug-2015 17:06:37 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'premomx1_crm'@'just114.justhost.com' (using password: YES) in /home3/premomx1/public_html/crm/config/config.php on line 13
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Warning:  mysql_query(): Access denied for user 'karthikpr'@'localhost' (using password: NO) in /home3/premomx1/public_html/crm/config/config.php on line 16
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/premomx1/public_html/crm/config/config.php on line 16
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Warning:  mysql_query(): Access denied for user 'karthikpr'@'localhost' (using password: NO) in /home3/premomx1/public_html/crm/config/config.php on line 17
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/premomx1/public_html/crm/config/config.php on line 17
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home3/premomx1/public_html/crm/config/config.php on line 19
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Use of undefined constant Claveagente - assumed 'Claveagente' in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 5
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Warning:  mysql_connect(): Access denied for user 'premomx1_crm'@'just114.justhost.com' (using password: YES) in /home3/premomx1/public_html/crm/config/config.php on line 13
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Warning:  mysql_query(): Access denied for user 'karthikpr'@'localhost' (using password: NO) in /home3/premomx1/public_html/crm/config/config.php on line 16
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/premomx1/public_html/crm/config/config.php on line 16
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Warning:  mysql_query(): Access denied for user 'karthikpr'@'localhost' (using password: NO) in /home3/premomx1/public_html/crm/config/config.php on line 17
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Warning:  mysql_query(): A link to the server could not be established in /home3/premomx1/public_html/crm/config/config.php on line 17
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home3/premomx1/public_html/crm/config/config.php on line 19
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home3/premomx1/public_html/crm/header.php on line 43
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home3/premomx1/public_html/crm/header.php on line 44
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Undefined variable: imagen in /home3/premomx1/public_html/crm/header.php on line 58
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Undefined variable: claveorganizacion in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 37
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 55
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Undefined index: month in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 292
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Undefined index: year in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 293
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Undefined index: dia in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 295
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Undefined index: semana in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 302
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Undefined index: year in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 316
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Undefined index: month in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 317
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Undefined index: year in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 318
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Use of undefined constant dia - assumed 'dia' in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 347
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Undefined index: dia in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 347
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Use of undefined constant dia - assumed 'dia' in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 350
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Undefined index: dia in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 350
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Use of undefined constant dia - assumed 'dia' in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 374
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Undefined index: dia in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 374
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Use of undefined constant semana - assumed 'semana' in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 396
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Notice:  Undefined index: semana in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 396
+[02-Aug-2015 16:06:37 America/Los_Angeles] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home3/premomx1/public_html/crm/modulos/actividades/calendario.php on line 429

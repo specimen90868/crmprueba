@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta title="habilitar, deshabilitar combos según selección en un radio button">
+	
+	<script>
+		function habilitar(value)
+		{
+			console.log(value);
+			if(value=="1")
+			{
+				// habilitamos
+				document.getElementById("segundo").disabled=false;
+			}else if(value=="2"){
+				// deshabilitamos
+				document.getElementById("segundo").disabled=true;
+			}
+		}
+	</script>
+</head>
+
+<body>
+<form>
+	<h1>habilitar, deshabilitar combos según selección en un radio button</h1>
+	<div>
+		<input type="radio" value="1" name="habilitarDeshabilitar" onchange="habilitar(this.value);" checked> Habilitar
+		<input type="radio" value="2" name="habilitarDeshabilitar" onchange="habilitar(this.value);"> Deshabilitar
+	</div>
+	<div>
+		<select name="segundo" id="segundo">
+			<option value='1'>seleccion 1</option>
+			<option value='2'>seleccion 2</option>
+		</select>
+	</div>
+</form>
+</body>
+</html>

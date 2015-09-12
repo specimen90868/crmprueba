@@ -1,0 +1,693 @@
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant Claveagente - assumed 'Claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 6
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant Rol - assumed 'Rol' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 7
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant organizacion - assumed 'organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 8
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: organizacion in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 8
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 21
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 21
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant agente - assumed 'agente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 21
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: agente in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 21
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined variable: _pagi_htaccess in /home3/premomx1/public_html/crm/modulos/oportunidades/paginator.inc.php on line 233
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant foto - assumed 'foto' in /home3/premomx1/public_html/crm/header.php on line 46
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 135
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 135
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 136
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 136
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 137
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 137
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 138
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 138
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 139
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 139
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 140
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 140
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 141
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 141
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 142
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 142
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 143
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 143
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 144
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 144
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 145
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 145
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 146
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 146
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 147
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 147
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 148
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 148
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 149
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 149
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 150
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 150
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant estatus - assumed 'estatus' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 151
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: estatus in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 151
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: Agente in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 159
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant agente - assumed 'agente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: agente in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant agente - assumed 'agente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: agente in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant agente - assumed 'agente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: agente in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant agente - assumed 'agente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: agente in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant agente - assumed 'agente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: agente in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant agente - assumed 'agente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: agente in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant agente - assumed 'agente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: agente in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant agente - assumed 'agente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: agente in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant agente - assumed 'agente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: agente in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant agente - assumed 'agente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: agente in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant agente - assumed 'agente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: agente in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant agente - assumed 'agente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: agente in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant agente - assumed 'agente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: agente in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant claveagente - assumed 'claveagente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 166
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant productos - assumed 'productos' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 217
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant descripcion_oportunidad - assumed 'descripcion_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined index: descripcion_oportunidad in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 219
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 220
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 221
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 222
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 224
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  A non well formed numeric value encountered in /home3/premomx1/public_html/crm/util.php on line 151
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant usuario - assumed 'usuario' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 232
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 239
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant organizacion - assumed 'organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 243
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 244
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa - assumed 'etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 252
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 253
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_siguiente - assumed 'etapa_siguiente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 254
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant probabilidad - assumed 'probabilidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 255
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 262
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant id_expediente - assumed 'id_expediente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 281
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 287
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant aprobado - assumed 'aprobado' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 292
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant total - assumed 'total' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 292
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant aprobado - assumed 'aprobado' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 292
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant total - assumed 'total' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 292
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined variable: documentos in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 383
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined variable: analisis in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 383
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined variable: avanzar in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 383
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined variable: retroceder in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 383
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant marcado - assumed 'marcado' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 387
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Undefined variable: fecha_cierre_esperado in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:44 America/Los_Angeles] PHP Notice:  Use of undefined constant P - assumed 'P' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 331
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 334
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/util.php on line 353
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/util.php on line 365
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 371
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 374
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_relacion - assumed 'clave_relacion' in /home3/premomx1/public_html/crm/util.php on line 374
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant id_expediente - assumed 'id_expediente' in /home3/premomx1/public_html/crm/util.php on line 380
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 380
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant id_expediente - assumed 'id_expediente' in /home3/premomx1/public_html/crm/util.php on line 390
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 390
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant total - assumed 'total' in /home3/premomx1/public_html/crm/util.php on line 393
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant id_expediente - assumed 'id_expediente' in /home3/premomx1/public_html/crm/util.php on line 396
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 410
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Undefined variable: documentos in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Undefined variable: analisis in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Undefined variable: enviar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Undefined variable: avanzar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Undefined variable: retroceder in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Undefined variable: mensajes in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:45 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 399
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_cierre_real - assumed 'fecha_cierre_real' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 400
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant productos - assumed 'productos' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 217
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant descripcion_oportunidad - assumed 'descripcion_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Undefined index: descripcion_oportunidad in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 219
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 220
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 221
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 222
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 224
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  A non well formed numeric value encountered in /home3/premomx1/public_html/crm/util.php on line 151
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant usuario - assumed 'usuario' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 232
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 239
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant organizacion - assumed 'organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 243
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 244
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa - assumed 'etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 252
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 253
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_siguiente - assumed 'etapa_siguiente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 254
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant probabilidad - assumed 'probabilidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 255
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 262
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant marcado - assumed 'marcado' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 387
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Undefined variable: fecha_cierre_esperado in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant P - assumed 'P' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 331
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 334
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/util.php on line 353
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/util.php on line 365
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Undefined variable: documentos in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Undefined variable: analisis in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Undefined variable: enviar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Undefined variable: avanzar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Undefined variable: retroceder in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Undefined variable: mensajes in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:46 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 399
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_cierre_real - assumed 'fecha_cierre_real' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 400
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant productos - assumed 'productos' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 217
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant descripcion_oportunidad - assumed 'descripcion_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Undefined index: descripcion_oportunidad in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 219
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 220
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 221
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 222
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 224
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  A non well formed numeric value encountered in /home3/premomx1/public_html/crm/util.php on line 151
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant usuario - assumed 'usuario' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 232
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 239
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant organizacion - assumed 'organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 243
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 244
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa - assumed 'etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 252
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 253
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_siguiente - assumed 'etapa_siguiente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 254
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant probabilidad - assumed 'probabilidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 255
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 262
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant marcado - assumed 'marcado' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 387
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Undefined variable: fecha_cierre_esperado in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant P - assumed 'P' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 331
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 334
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/util.php on line 353
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/util.php on line 365
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Undefined variable: documentos in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Undefined variable: analisis in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Undefined variable: enviar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Undefined variable: avanzar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Undefined variable: retroceder in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Undefined variable: mensajes in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 399
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_cierre_real - assumed 'fecha_cierre_real' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 400
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant productos - assumed 'productos' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 217
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant descripcion_oportunidad - assumed 'descripcion_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Undefined index: descripcion_oportunidad in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 219
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 220
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 221
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 222
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 224
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  A non well formed numeric value encountered in /home3/premomx1/public_html/crm/util.php on line 151
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant usuario - assumed 'usuario' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 232
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 239
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant organizacion - assumed 'organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 243
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 244
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa - assumed 'etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 252
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 253
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_siguiente - assumed 'etapa_siguiente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 254
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant probabilidad - assumed 'probabilidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 255
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 262
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant marcado - assumed 'marcado' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 387
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Undefined variable: fecha_cierre_esperado in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:47 America/Los_Angeles] PHP Notice:  Use of undefined constant P - assumed 'P' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 331
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 334
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/util.php on line 353
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/util.php on line 365
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Undefined variable: documentos in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Undefined variable: analisis in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Undefined variable: enviar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Undefined variable: avanzar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Undefined variable: retroceder in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Undefined variable: mensajes in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 399
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_cierre_real - assumed 'fecha_cierre_real' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 400
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant productos - assumed 'productos' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 217
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant descripcion_oportunidad - assumed 'descripcion_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Undefined index: descripcion_oportunidad in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 219
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 220
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 221
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 222
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 224
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  A non well formed numeric value encountered in /home3/premomx1/public_html/crm/util.php on line 151
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant usuario - assumed 'usuario' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 232
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 239
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant organizacion - assumed 'organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 243
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 244
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa - assumed 'etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 252
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 253
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_siguiente - assumed 'etapa_siguiente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 254
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant probabilidad - assumed 'probabilidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 255
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 262
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant marcado - assumed 'marcado' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 387
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Undefined variable: fecha_cierre_esperado in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant P - assumed 'P' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:48 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 331
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 334
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/util.php on line 353
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/util.php on line 365
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Undefined variable: documentos in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Undefined variable: analisis in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Undefined variable: enviar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Undefined variable: avanzar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Undefined variable: retroceder in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Undefined variable: mensajes in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 399
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_cierre_real - assumed 'fecha_cierre_real' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 400
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant productos - assumed 'productos' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 217
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant descripcion_oportunidad - assumed 'descripcion_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Undefined index: descripcion_oportunidad in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 219
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 220
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 221
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 222
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 224
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  A non well formed numeric value encountered in /home3/premomx1/public_html/crm/util.php on line 151
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant usuario - assumed 'usuario' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 232
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 239
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant organizacion - assumed 'organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 243
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 244
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa - assumed 'etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 252
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 253
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_siguiente - assumed 'etapa_siguiente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 254
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant probabilidad - assumed 'probabilidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 255
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 262
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant marcado - assumed 'marcado' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 387
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Undefined variable: fecha_cierre_esperado in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant P - assumed 'P' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:49 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 331
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 334
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/util.php on line 353
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/util.php on line 365
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Undefined variable: documentos in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Undefined variable: analisis in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Undefined variable: enviar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Undefined variable: avanzar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Undefined variable: retroceder in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Undefined variable: mensajes in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 399
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_cierre_real - assumed 'fecha_cierre_real' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 400
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant productos - assumed 'productos' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 217
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant descripcion_oportunidad - assumed 'descripcion_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Undefined index: descripcion_oportunidad in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 219
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 220
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 221
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 222
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 224
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  A non well formed numeric value encountered in /home3/premomx1/public_html/crm/util.php on line 151
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant usuario - assumed 'usuario' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 232
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 239
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant organizacion - assumed 'organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 243
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 244
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa - assumed 'etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 252
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 253
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_siguiente - assumed 'etapa_siguiente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 254
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant probabilidad - assumed 'probabilidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 255
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 262
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant marcado - assumed 'marcado' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 387
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Undefined variable: fecha_cierre_esperado in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant P - assumed 'P' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:50 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 331
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 334
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/util.php on line 353
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/util.php on line 365
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Undefined variable: documentos in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Undefined variable: analisis in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Undefined variable: enviar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Undefined variable: avanzar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Undefined variable: retroceder in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Undefined variable: mensajes in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 399
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_cierre_real - assumed 'fecha_cierre_real' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 400
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant productos - assumed 'productos' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 217
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant descripcion_oportunidad - assumed 'descripcion_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Undefined index: descripcion_oportunidad in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 219
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 220
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 221
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 222
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 224
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  A non well formed numeric value encountered in /home3/premomx1/public_html/crm/util.php on line 151
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant usuario - assumed 'usuario' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 232
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 239
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant organizacion - assumed 'organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 243
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 244
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa - assumed 'etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 252
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 253
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_siguiente - assumed 'etapa_siguiente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 254
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant probabilidad - assumed 'probabilidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 255
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 262
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant marcado - assumed 'marcado' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 387
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Undefined variable: fecha_cierre_esperado in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant P - assumed 'P' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 331
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:51 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 334
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/util.php on line 353
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/util.php on line 365
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Undefined variable: documentos in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Undefined variable: analisis in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Undefined variable: enviar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Undefined variable: avanzar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Undefined variable: retroceder in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Undefined variable: mensajes in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 399
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_cierre_real - assumed 'fecha_cierre_real' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 400
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant productos - assumed 'productos' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 217
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant descripcion_oportunidad - assumed 'descripcion_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Undefined index: descripcion_oportunidad in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 219
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 220
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 221
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 222
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 224
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  A non well formed numeric value encountered in /home3/premomx1/public_html/crm/util.php on line 151
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant usuario - assumed 'usuario' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 232
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 239
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant organizacion - assumed 'organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 243
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 244
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa - assumed 'etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 252
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 253
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_siguiente - assumed 'etapa_siguiente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 254
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant probabilidad - assumed 'probabilidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 255
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 262
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant marcado - assumed 'marcado' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 387
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Undefined variable: fecha_cierre_esperado in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant P - assumed 'P' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 331
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:52 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 334
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/util.php on line 353
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/util.php on line 365
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Undefined variable: documentos in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Undefined variable: analisis in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Undefined variable: enviar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Undefined variable: avanzar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Undefined variable: retroceder in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Undefined variable: mensajes in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 399
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_cierre_real - assumed 'fecha_cierre_real' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 400
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant productos - assumed 'productos' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 217
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant descripcion_oportunidad - assumed 'descripcion_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Undefined index: descripcion_oportunidad in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 218
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 219
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 220
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 221
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 222
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 224
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  A non well formed numeric value encountered in /home3/premomx1/public_html/crm/util.php on line 151
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant usuario - assumed 'usuario' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 232
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant nombre - assumed 'nombre' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant apellidopaterno - assumed 'apellidopaterno' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 236
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 239
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant organizacion - assumed 'organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 243
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 244
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa - assumed 'etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 252
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 253
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_siguiente - assumed 'etapa_siguiente' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 254
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant probabilidad - assumed 'probabilidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 255
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 262
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant marcado - assumed 'marcado' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 387
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Undefined variable: fecha_cierre_esperado in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 388
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant id_oportunidad - assumed 'id_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant id_etapa - assumed 'id_etapa' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant P - assumed 'P' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 393
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 331
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/util.php on line 334
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant id_responsable - assumed 'id_responsable' in /home3/premomx1/public_html/crm/util.php on line 353
+[02-Aug-2015 16:46:53 America/Los_Angeles] PHP Notice:  Use of undefined constant etapa_anterior - assumed 'etapa_anterior' in /home3/premomx1/public_html/crm/util.php on line 365
+[02-Aug-2015 16:46:54 America/Los_Angeles] PHP Notice:  Undefined variable: documentos in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:54 America/Los_Angeles] PHP Notice:  Undefined variable: analisis in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:54 America/Los_Angeles] PHP Notice:  Undefined variable: enviar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:54 America/Los_Angeles] PHP Notice:  Undefined variable: avanzar in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:54 America/Los_Angeles] PHP Notice:  Undefined variable: retroceder in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:54 America/Los_Angeles] PHP Notice:  Undefined variable: mensajes in /home3/premomx1/public_html/crm/util.php on line 649
+[02-Aug-2015 16:46:54 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:54 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_oportunidad - assumed 'clave_oportunidad' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 394
+[02-Aug-2015 16:46:54 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_persona - assumed 'tipo_persona' in /home3/premomx1/public_html/crm/util.php on line 259
+[02-Aug-2015 16:46:54 America/Los_Angeles] PHP Notice:  Use of undefined constant clave_organizacion - assumed 'clave_organizacion' in /home3/premomx1/public_html/crm/util.php on line 265
+[02-Aug-2015 16:46:54 America/Los_Angeles] PHP Notice:  Use of undefined constant tipo_credito - assumed 'tipo_credito' in /home3/premomx1/public_html/crm/util.php on line 280
+[02-Aug-2015 16:46:54 America/Los_Angeles] PHP Notice:  Use of undefined constant monto - assumed 'monto' in /home3/premomx1/public_html/crm/util.php on line 281
+[02-Aug-2015 16:46:54 America/Los_Angeles] PHP Notice:  Use of undefined constant plazo_credito - assumed 'plazo_credito' in /home3/premomx1/public_html/crm/util.php on line 282
+[02-Aug-2015 16:46:54 America/Los_Angeles] PHP Notice:  Use of undefined constant destino_credito - assumed 'destino_credito' in /home3/premomx1/public_html/crm/util.php on line 283
+[02-Aug-2015 16:46:54 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_captura - assumed 'fecha_captura' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 399
+[02-Aug-2015 16:46:54 America/Los_Angeles] PHP Notice:  Use of undefined constant fecha_cierre_real - assumed 'fecha_cierre_real' in /home3/premomx1/public_html/crm/modulos/oportunidades/oportunidades.php on line 400
